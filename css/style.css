@@ -1,0 +1,13 @@
+body, html {
+    height: 100%;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url(../images/aarhus.jpg); 
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
